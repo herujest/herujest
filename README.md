@@ -31,3 +31,4 @@ I am Heru J Supriyadi, currently working as a Software Engineer at the [Seeds Fi
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=herujest&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herujest&hide=TeX&layout=compact)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314gfrzbg44g2sy7jpjmmrzpe6q4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
