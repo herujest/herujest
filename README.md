@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Heru
 
-I am Heru J Supriyadi, currently working as a Software Engineer at the [Seeds Finance](https://seeds.finance/). I am a React Native typescript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Heru J Supriyadi, currently working as a Software Engineer at the [Esha Parama Technology](). I am a React Native typescript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Heru%20J-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heru-js/)](https://www.linkedin.com/in/heru-js/)
 [![Medium Badge](https://img.shields.io/badge/Heru%20JS-12100E?style=flat-square&logo=medium&logoColor=white&link=https://heruujs.medium.com/)](https://heruujs.medium.com/)
