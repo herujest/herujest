@@ -2,6 +2,11 @@
 
 I am Heru J Supriyadi, currently working as a Software Engineer at the [Esha Parama Technology](). I am a React Native typescript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
+> - [heruu-js.com](http://heruu-js.com)
+> - Partner with [nisaaulia.com](https://nisaaulia.com)
+> - Founder of [supriyadies.work](https://supriyadies.work)
+> - Member of [nominagroup.id](https://nominagroup.id)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Heru%20J-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heru-js/)](https://www.linkedin.com/in/heru-js/)
 [![Medium Badge](https://img.shields.io/badge/Heru%20JS-12100E?style=flat-square&logo=medium&logoColor=white&link=https://heruujs.medium.com/)](https://heruujs.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-heruu.js@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heruu.js@protonmail.com)](mailto:heruu.js@protonmail.com)
