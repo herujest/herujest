@@ -52,8 +52,15 @@ Long term, I’m aiming for:
 > - 🌐 [heruu-js.com](http://heruu-js.com)  
 > - 🤝 Partner at [nisaaulia.com](https://nisaaulia.com)  
 > - 🚀 Founder of [supriyadies.work](https://supriyadies.work)  
-> - 🧩 Member of [nominagroup.id](https://nominagroup.id)  
+> - 🧩 Member of [nominagroup.id](https://nominagroup.id)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heru%20J-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heru-js/)
+
+[![Medium](https://img.shields.io/badge/Medium-Heru%20JS-12100E?style=flat-square&logo=medium&logoColor=white)](https://heruujs.medium.com/)
+
+[![Email](https://img.shields.io/badge/Email-heruu.js@protonmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:heruu.js@protonmail.com)
+
+[![Facebook](https://img.shields.io/badge/Facebook-Heru%20Julyanto%20Eka-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/heru.julyanto.es/)
 ---
 
 ### 🧠 Currently thinking about
