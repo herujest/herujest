@@ -1,40 +1,68 @@
 ### Hi there 👋, I'm Heru
 
-I am Heru J Supriyadi, currently working as a Software Engineer at the [Esha Parama Technology](). I am a React Native typescript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I’m Heru J Supriyadi — a Software Engineer focused on building scalable mobile apps with React Native & TypeScript.
 
-> - [heruu-js.com](http://heruu-js.com)
-> - Partner with [nisaaulia.com](https://nisaaulia.com)
-> - Founder of [supriyadies.work](https://supriyadies.work)
-> - Member of [nominagroup.id](https://nominagroup.id)
+But honestly, I don’t see myself as just a developer.
+I’m a builder who uses code as a tool to create systems, products, and long-term impact.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Heru%20J-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heru-js/)](https://www.linkedin.com/in/heru-js/)
-[![Medium Badge](https://img.shields.io/badge/Heru%20JS-12100E?style=flat-square&logo=medium&logoColor=white&link=https://heruujs.medium.com/)](https://heruujs.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-heruu.js@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heruu.js@protonmail.com)](mailto:heruu.js@protonmail.com)
-[![Facebook Badge](https://img.shields.io/badge/Heru%20Julyanto%20Eka-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/heru.julyanto.es/)](https://www.facebook.com/heru.julyanto.es/)
+---
 
+### 🚀 What I’m building
 
-## ⚡ Technologies
+Currently, I’m actively developing and experimenting with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react)
-![AndroidDevelopment](https://img.shields.io/badge/-Development-white?style=flat-square&logo=android)
-![iosDevelopment](https://img.shields.io/badge/-Development-black?style=flat-square&logo=ios)
-![Bitrise](https://img.shields.io/badge/-Bitrise-683D87?style=flat-square&logo=bitrise)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+- 💍 **Nisaaulia Weddio**  
+  A wedding platform & ecosystem — helping connect vendors, manage workflows, and create better experiences for couples.
 
+- ⚙️ **Suprflow**  
+  A system-focused product to streamline workflows, operations, and structured processes (still evolving).
 
+- 🧩 **Guild System (in progress)**  
+  A real-world quest-based system that connects people, leveling, and meaningful collaboration.
+
+---
+
+### 🌱 What drives me
+
+I’m exploring the intersection of:
+
+- 📱 Mobile engineering (React Native, clean architecture)
+- ⚙️ Native mobile development (currently diving into Kotlin & Swift)
+- 💡 Micro SaaS & product building
+- 🧠 Systems thinking & human behavior
+- 🌌 Science, consciousness, and spirituality
+
+Long term, I’m aiming for:
+> ?? just let's see 
+
+---
+
+### ⚡ Tech Stack
+
+- Mobile: React Native, TypeScript
+- Frontend: React.js
+- Backend: Node.js, GraphQL
+- State & Data: Redux, Apollo
+- DevOps: Bitrise
+- Others: Git, CI/CD, Clean Architecture mindset
+
+---
+
+### 🌍 Connect with me
+> - 🌐 [heruu-js.com](http://heruu-js.com)  
+> - 🤝 Partner at [nisaaulia.com](https://nisaaulia.com)  
+> - 🚀 Founder of [supriyadies.work](https://supriyadies.work)  
+> - 🧩 Member of [nominagroup.id](https://nominagroup.id)  
+
+---
+
+### 🧠 Currently thinking about
+- Designing systems that scale beyond individuals
+- Creating meaningful products, not just features
+
+---
+
+### 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herujest&hide=TeX&layout=compact)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314gfrzbg44g2sy7jpjmmrzpe6q4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
