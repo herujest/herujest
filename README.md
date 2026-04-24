@@ -11,10 +11,10 @@ I’m a builder who uses code as a tool to create systems, products, and long-te
 
 Currently, I’m actively developing and experimenting with:
 
-- 💍 **Nisaaulia Weddio**  
+- 💍 [**Nisaaulia Weddio**](https://weddio.nisaaulia.com)  
   A wedding platform & ecosystem — helping connect vendors, manage workflows, and create better experiences for couples.
 
-- ⚙️ **Suprflow**  
+- ⚙️ **Suprflow**
   A system-focused product to streamline workflows, operations, and structured processes (still evolving).
 
 - 🧩 **Guild System (in progress)**  
