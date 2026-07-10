@@ -1,8 +1,14 @@
 ### Hi there 👋, I'm Heru
+Building software that improves how people and businesses work.
 
-I’m Heru J Supriyadi — a Software Engineer focused on building scalable mobile apps with React Native & TypeScript.
+---
+I'm Heru J Supriyadi, a Software Engineer building mobile products, internal platforms, and scalable systems.
 
-But honestly, I don’t see myself as just a developer.
+I specialize in React Native, TypeScript, and product architecture while exploring native development with Kotlin and Swift.
+
+I enjoy turning complex operational problems into simple software.
+
+Beyond writing code, I enjoy designing systems, validating product ideas, and building businesses around software.
 I’m a builder who uses code as a tool to create systems, products, and long-term impact.
 
 ---
@@ -12,13 +18,13 @@ I’m a builder who uses code as a tool to create systems, products, and long-te
 Currently, I’m actively developing and experimenting with:
 
 - 💍 [**Nisaaulia Weddio**](https://weddio.nisaaulia.com)  
-  A wedding platform & ecosystem — helping connect vendors, manage workflows, and create better experiences for couples.
+  A wedding platform & ecosystem — An end-to-end wedding platform covering vendor management, event operations, CRM, and digital invitations.
 
 - ⚙️ **Suprflow**
-  A system-focused product to streamline workflows, operations, and structured processes (still evolving).
+  An internal operating system for businesses that focuses on workflows, automation, modular processes, and operational visibility.
 
 - 🧩 **Guild System (in progress)**  
-  A real-world quest-based system that connects people, leveling, and meaningful collaboration.
+  An experimental project exploring gamification, progression systems, and community collaboration in real life.
 
 ---
 
@@ -32,19 +38,34 @@ I’m exploring the intersection of:
 - 🧠 Systems thinking & human behavior
 - 🌌 Science, consciousness, and spirituality
 
-Long term, I’m aiming for:
-> ?? just let's see 
+Long term, I want to build products and organizations that create lasting impact through technology.
 
 ---
 
 ### ⚡ Tech Stack
 
-- Mobile: React Native, TypeScript
-- Frontend: React.js
-- Backend: Node.js, GraphQL
-- State & Data: Redux, Apollo
-- DevOps: Bitrise
-- Others: Git, CI/CD, Clean Architecture mindset
+**Mobile**
+React Native
+TypeScript
+
+**Frontend**
+React
+Next.js
+
+**Backend**
+Node.js
+GraphQL
+PostgreSQL
+
+**Architecture**
+Clean Architecture
+Modular Design
+Feature-based Architecture
+
+**DevOps**
+GitHub Actions
+Bitrise
+CI/CD
 
 ---
 
@@ -63,13 +84,37 @@ Long term, I’m aiming for:
 [![Facebook](https://img.shields.io/badge/Facebook-Heru%20Julyanto%20Eka-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/heru.julyanto.es/)
 ---
 
-### 🧠 Currently thinking about
-- Designing systems that scale beyond individuals
-- Creating meaningful products, not just features
+### 🧠 Currently exploring
+• Product architecture
+• Native mobile development
+• AI-assisted software engineering
+• Business operating systems
+• Human-centered software
 
 ---
 
-### 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herujest&hide=TeX&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=herujest&show_icons=true&theme=transparent&hide_border=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=herujest&layout=compact&theme=transparent&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=herujest&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 🎧 Currently Listening
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314gfrzbg44g2sy7jpjmmrzpe6q4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
